@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=15F7C0&width=435&lines=Hi%2C+I+am+Rajdeep%2C+a+Full+Stack+software+engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&color=15F7C0&vCenter=true&multiline=true&width=500&height=100&lines=Hi%2C+I+am+Rajdeep;a+Full+Stack+software+engineer)](https://git.io/typing-svg)
 
 ![Coding Gif](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
