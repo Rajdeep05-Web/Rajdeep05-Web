@@ -11,7 +11,8 @@
 
 # Coding Stats:
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/ym05?theme=catppuccinMocha&font=McLaren&ext=heatmap" width="750" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/ym05?theme=catppuccinMocha&font=McLaren&ext=heatmap" height="200" alt="LeetCode Stats" />
+  <img src="https://gfgstatscard.vercel.app/121rajmmbf?theme=dark" height="200" alt="GFG Stats" />
 </p>
 
 
