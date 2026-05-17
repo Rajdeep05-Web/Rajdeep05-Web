@@ -10,9 +10,11 @@
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Rajdeep05-Web&layout=compact&theme=github_dark)
 
 # Coding Stats:
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/ym05?theme=catppuccinMocha&font=McLaren&ext=heatmap" height="200" alt="LeetCode Stats" />
-  <img src="https://gfgstatscard.vercel.app/121rajmmbf?theme=dark" height="200" alt="GFG Stats" />
-</p>
+<div align="center">
+  <div style="display: flex; justify-content: center; gap: 15px; width: 100%; max-width: 900px;">
+    <img src="https://leetcard.jacoblin.cool/ym05?theme=catppuccinMocha&font=McLaren&ext=heatmap" style="flex: 1.4; height: auto; min-width: 0;" alt="LeetCode Stats" />
+    <img src="https://gfgstatscard.vercel.app/121rajmmbf?theme=dark" style="flex: 1; height: auto; min-width: 0;" alt="GFG Stats" />
+  </div>
+</div>
 
 
